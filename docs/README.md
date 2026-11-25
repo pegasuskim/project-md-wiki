@@ -12,7 +12,7 @@ This `docs/` holds every document of the repository other than the root `AGENTS.
 | Changing or running a deploy, or adding a setting that an app needs where it runs, such as an environment variable, a port or a secret | [standards/deploy.md](standards/deploy.md) |
 | Reading or changing the rows of a database of a deployed environment | [standards/deployed-databases-sample.md](standards/deployed-databases-sample.md) |
 | Starting work that will end in a PR, or working with Linear | [standards/linear.md](standards/linear.md) |
-| Naming something, or using an Omni term, in code or in a document | [standards/glossary.md](standards/glossary.md) |
+| Naming something, or using an Omni term, in code or in a document | [standards/glossary-sample.md](standards/glossary-sample.md) |
 | Writing a code comment | [standards/code-comments.md](standards/code-comments.md) |
 | Writing or changing TypeScript code | [standards/typescript.md](standards/typescript.md) |
 | Any change to the repository's documents | [standards/writing-docs.md](standards/writing-docs.md) |
