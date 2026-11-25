@@ -10,7 +10,7 @@ This `docs/` holds every document of the repository other than the root `AGENTS.
 | Adding or changing an app, its image, or a package, or anything it imports or depends on, or a test that starts another app, or adding an environment variable that an app needs to start | [standards/nx-monorepo.md](standards/nx-monorepo.md) |
 | Working with a branch, a PR, or a GitHub setting | [standards/github.md](standards/github.md) |
 | Changing or running a deploy, or adding a setting that an app needs where it runs, such as an environment variable, a port or a secret | [standards/deploy.md](standards/deploy.md) |
-| Reading or changing the rows of a database of a deployed environment | [standards/deployed-databases.md](standards/deployed-databases.md) |
+| Reading or changing the rows of a database of a deployed environment | [standards/deployed-databases-sample.md](standards/deployed-databases-sample.md) |
 | Starting work that will end in a PR, or working with Linear | [standards/linear.md](standards/linear.md) |
 | Naming something, or using an Omni term, in code or in a document | [standards/glossary.md](standards/glossary.md) |
 | Writing a code comment | [standards/code-comments.md](standards/code-comments.md) |
