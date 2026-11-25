@@ -7,7 +7,7 @@ This `docs/` holds every document of the repository other than the root `AGENTS.
 | What you're doing | Document |
 | --- | --- |
 | Running a command from the repository root, or changing a package script, a GitHub Actions workflow, a script that a workflow runs, or anything that checks a change | [standards/quality-gates.md](standards/quality-gates.md) |
-| Adding or changing an app, its image, or a package, or anything it imports or depends on, or a test that starts another app, or adding an environment variable that an app needs to start | [standards/monorepo.md](standards/monorepo.md) |
+| Adding or changing an app, its image, or a package, or anything it imports or depends on, or a test that starts another app, or adding an environment variable that an app needs to start | [standards/nx-monorepo.md](standards/nx-monorepo.md) |
 | Working with a branch, a PR, or a GitHub setting | [standards/github.md](standards/github.md) |
 | Changing or running a deploy, or adding a setting that an app needs where it runs, such as an environment variable, a port or a secret | [standards/deploy.md](standards/deploy.md) |
 | Reading or changing the rows of a database of a deployed environment | [standards/deployed-databases.md](standards/deployed-databases.md) |
