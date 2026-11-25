@@ -1,4 +1,4 @@
-# omni
+# project name
 
 These rules apply to every task in the repository, from its start to its finish.
 
